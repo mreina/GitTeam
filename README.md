@@ -1,2 +1,2 @@
 # GitTeam
-Equipo ganador del TeacherThon Intel 2017.
+Proyecto conformado por expertos multidisciplinario de TI de diferentes Universidades y Centros de investigación de México.
